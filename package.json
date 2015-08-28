@@ -1,0 +1,10 @@
+{
+  "name": "commonform-treeify-annotations",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "license": "Apache-2.0",
+  "repository": "commonform/commonform-treeify-annotations",
+  "scripts": {
+    "test": "defence README.md | replace-require-self | node"
+  }
+}
