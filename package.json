@@ -1,7 +1,7 @@
 {
   "name": "commonform-treeify-annotations",
   "description": "treeify arrays of Common Form annotations",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "dependencies": {
     "keyarray-get": "~0.1.0",
